@@ -1,3 +1,4 @@
+# test comment
 # Builder phase
 FROM node:alpine as builder
 WORKDIR '/app'
